@@ -20,7 +20,7 @@ cd 0_env_gen_paper
 ```
 ### 安裝 requirements.txt 套件
 ```
-pip install –r requirements.txt
+pip install -r requirements.txt
 ```
 
 ### 切換資料夾至1_generate_CP950
