@@ -8,6 +8,10 @@ conda create --name gen_paper python=3.8
 ```
 conda activate gen_paper
 ```
+### 切換資料夾至你放此專案的位置
+```
+cd C:\Users\User\Downloads\01-1_generate_paper-main\01-1_generate_paper-main #請根據你的資料夾位置更改
+```
 ### 切換資料夾至0_env_gen_paper
 ```
 cd 0_env_gen_paper
