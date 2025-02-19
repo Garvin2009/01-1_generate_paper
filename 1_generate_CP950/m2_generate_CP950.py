@@ -29,7 +29,7 @@ data_dict2 = {"twTrain": unicode_characters}
 with open("../2_generate_manuscript/CP950.json", "w", encoding="utf-8") as json_file:
     json.dump(data_dict, json_file, ensure_ascii=False, indent=2)
 
-json_text = json.dumps(data_dict2, ensure_ascii=False, separators=(', ', ':')).replace("\\\\", "\\")
+#json_text = json.dumps(data_dict2, ensure_ascii=False, separators=(', ', ':')).replace("\\\\", "\\")
 
-with open("cjk_train.json", "w", encoding="utf-8") as json_file:
-    json_file.write(json_text)
+#with open("cjk_train.json", "w", encoding="utf-8") as json_file:
+    #json_file.write(json_text)
