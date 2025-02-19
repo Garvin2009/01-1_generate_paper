@@ -48,8 +48,8 @@ cd 2_generate_manuscript
 ```python
 TOTAL_PAGES = 57
 # personal information below
-ID = "STUDENT_ID"  # enter your ID here
-NAME = "NAME_HERE"  # enter your name here
+ID = "你的學號"  # enter your ID here
+NAME = "你的姓名"  # enter your name here
 NUMBER = 0  # enter your number here
 ```
 
