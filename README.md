@@ -4,6 +4,10 @@
 ```
 conda create --name gen_paper python=3.8
 ```
+### 建好後，開啟虛擬環境
+```
+conda activate gen_paper
+```
 ### 切換資料夾至0_env_gen_paper
 ```
 cd 0_env_gen_paper
