@@ -1,5 +1,5 @@
 # genpaper
-### 需建立虛擬環境，前往https://www.anaconda.com/download下載
+### 需建立虛擬環境，前往https://www.anaconda.com/download 並下載
 ### 安裝完成後輸入指令
 ```
 conda create --name gen_paper python=3.8
