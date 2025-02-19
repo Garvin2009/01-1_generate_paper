@@ -1,4 +1,5 @@
 # genpaper
+### 先下載此專案，點擊右上角CODE->DOWNLOAD ZIP
 ### 需建立虛擬環境，前往https://www.anaconda.com/download 並下載
 ### 安裝完成後輸入指令
 ```
