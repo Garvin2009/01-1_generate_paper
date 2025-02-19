@@ -34,8 +34,6 @@ cd 2_generate_manuscript
 ```
 ### 製作包含 CP950 所有字元稿紙
 
-![GITHUB](https://github.com/Circle472/script_ntut/raw/main/scripts_pku_file.jpg)
-
 ### 修改 info.py 程式碼
 ```python
 TOTAL_PAGES = 57
