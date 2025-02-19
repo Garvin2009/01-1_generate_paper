@@ -59,6 +59,10 @@ NUMBER = 0  # enter your number here
 python 1_SVGtable.py
 ```
 #### 步驟二：將 57 張 svg 檔案加上 QRcode
+### 先安裝QRCODE套件
+```
+pip install qrcode
+```
 ```
 python 2_QR_add.py
 ```
